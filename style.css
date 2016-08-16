@@ -1,0 +1,65 @@
+#head-img {
+  height: 250px;
+  width: 400px;
+  }
+
+#head-title {
+  font-family: Great Vibes, Monospace;
+  padding-top: 50px;
+  font-size: 420%;
+}
+
+#head-dates {
+  font-family: Cinzel, Monospace;
+  padding-left: 35px;
+  font-size: 350%;
+  color: darkgray;
+  font-style: italic;
+}
+
+#quote {
+  padding: 10px 20px 10px 20px;
+  word-wrap: break-word;
+  font-family: Cinzel, Monospace;
+  color: black;
+  font-size: 250%;
+  text-align: center;
+  border-bottom: 4px solid black;
+  box-shadow: 0px 3px 0px 0px white, 0px 4px 0px 0px darkgray;
+}
+
+#bio {
+  font-family: Lora, Monospace;
+  font-size: 125%;
+  text-align: justify;
+  border-bottom: 4px solid black;
+  box-shadow: 0px 3px 0px 0px white, 0px 4px 0px 0px darkgray;
+}
+
+#gallery {
+  padding: 10px 10px 10px 10px;
+}
+
+.image {
+  height: auto;
+  width: 100%
+}
+
+body {
+  padding: 10px;
+}
+
+#author {
+  position: absolute;
+  bottom: 20;
+  right: 15px;
+  text-align: right;
+  color: #404040;
+  font-family: Lora;
+  font-size: 100%;
+}
+
+#name {
+  font-family: Great Vibes;
+  color: #404040;
+}
